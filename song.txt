@@ -2,3 +2,6 @@ strange text
 a very strange text
 something wrong
 and i am not good
+
+and new text
+some new strange text
